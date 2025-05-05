@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👋 Salut, moi c’est Josuee Oluwafemi AOGA
+# 👋 Salut, moi c’est Josuée Oluwafèmi AOGA
   
-💻 **Développeur Fullstack** passionné, je construis des applications web de A à Z avec des technologies modernes comme React.js, Next.js, TailwindCSS, Node.js, Express, PostgreSQL et Prisma.
+💻 **Développeur Fullstack** passionné, je construis des applications web de A à Z avec des technologies modernes comme React.js, Next.js, TailwindCSS, Node.js, Express, PostgreSQL, MySQL, Supabase, MongoDb et Prisma.
 
 🌍 Originaire du Bénin, je combine rigueur backend et créativité frontend pour livrer des solutions performantes, élégantes et centrées sur l’utilisateur.
 🚀 Toujours en quête d’apprentissage, j’adore expérimenter de nouvelles stacks et relever des défis techniques.
@@ -38,9 +38,9 @@
 
 ## 📊 Stats GitHub
 
-![Josuee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueeAoga&show_icons=true&theme=radical)
+![Josuee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bestbeedev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueeAoga&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestbeedev&layout=compact&theme=radical)
 
 ---
 
