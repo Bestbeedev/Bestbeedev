@@ -47,8 +47,6 @@
 ## 📫 Me contacter
 
 - 📧 [josueeaoga0@gmail.com](mailto:josueaoga0@gmail.com)
-- 🌐 [Mon Portfolio](https://tonportfolio.com) *(remplace par ton lien réel)*
-- 🐦 Twitter / X: [@tonpseudo](https://twitter.com/tonpseudo)
 
 ---
 
