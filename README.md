@@ -46,7 +46,7 @@
 
 ## 📫 Me contacter
 
-- 📧 [josueeaoga0@gmail.com](mailto:josueaoga0@gmail.com)
+- 📧 [josueaoga0@gmail.com](mailto:josueaoga0@gmail.com)
 
 ---
 
